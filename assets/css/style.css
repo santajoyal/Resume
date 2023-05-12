@@ -145,6 +145,7 @@ img {
 
 .nav_link:hover {
   position: relative;
+  text-decoration: none;
 }
 
 .nav_link:hover::after {
